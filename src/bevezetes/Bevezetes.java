@@ -173,6 +173,11 @@ public class Bevezetes {
         int e = 9;
         
         System.out.println("Melyik a kisebb?" + Math.min(Math.pow(d,2) , Math.sqrt(e)));
+        System.out.println("SZERETEM PITYÓT");
+        System.out.println("SZERETEM PITYÓT");
+        System.out.println("SZERETEM PITYÓT");
+        System.out.println("SZERETEM PITYÓT");
+        System.out.println("SZERETEM PITYÓT");
         
     } 
 }
